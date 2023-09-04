@@ -16,6 +16,7 @@ module fulladd1b(sum,cout,a,b,cin);
   xor(sum,s1,cin);
   and(c2,s1,cin);
   or(cout,c2,c1);
+  
 
 endmodule
 
